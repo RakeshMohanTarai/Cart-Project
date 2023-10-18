@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://cart-project-d26fe
 
 ## 🚀 Deployment 🚀
 
-To access the app on Render.com, please follow this link: [Access the App on Firebase](https://cart-project-d26fe.web.app/) 🌐✨.
+To access the app on firebase.com, please follow this link: [Access the App on Firebase](https://cart-project-d26fe.web.app/) 🌐✨.
 
 ## Available Scripts 📜
 
